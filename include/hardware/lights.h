@@ -127,7 +127,7 @@ struct light_state_t {
      * Currently the values are BRIGHTNESS_MODE_USER and BRIGHTNESS_MODE_SENSOR.
      */
     int brightnessMode;
-    +
+
     /**
      * Define the LEDs modes (multiple, ...).
      * See the LIGHTS_MODE_* mask constants.
